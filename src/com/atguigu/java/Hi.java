@@ -5,5 +5,7 @@ package com.atguigu.java;
  * @Date 2019/11/14 - 11:03
  */
 public class Hi {
-  System.out.println("Hi");
+  public static void main(String[] args) {
+    System.out.println("Hi");
+  }
 }
